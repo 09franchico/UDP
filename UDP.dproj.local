@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/27 21:49:39.000.995,=C:\Users\Francisco\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/27 21:50:35.000.212,C:\Users\Francisco\Desktop\DESENVOLVIMENTO\DELPHI\UDP\uPrincipal.dfm=C:\Users\Francisco\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/01/27 21:50:35.000.212,C:\Users\Francisco\Desktop\DESENVOLVIMENTO\DELPHI\UDP\uPrincipal.pas=C:\Users\Francisco\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/27 21:50:45.000.162,C:\Users\Francisco\Desktop\DESENVOLVIMENTO\DELPHI\UDP\UDP.dproj=C:\Users\Francisco\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/01/27 21:52:52.000.662,=C:\Users\Francisco\Desktop\DESENVOLVIMENTO\DELPHI\UDP\Unit1.pas</Transaction>
+    <Transaction>2022/01/27 22:45:31.000.715,C:\Users\Francisco\Desktop\DESENVOLVIMENTO\DELPHI\UDP\udsp_network.pas=C:\Users\Francisco\Desktop\DESENVOLVIMENTO\DELPHI\UDP\Unit1.pas</Transaction>
+    <Transaction>2022/01/27 22:53:29.000.523,=C:\Users\Francisco\Desktop\DESENVOLVIMENTO\DELPHI\UDP\Unit1.pas</Transaction>
+    <Transaction>2022/01/27 22:54:03.000.621,C:\Users\Francisco\Desktop\DESENVOLVIMENTO\DELPHI\UDP\Unit1.pas=C:\Users\Francisco\Desktop\DESENVOLVIMENTO\DELPHI\UDP\uFra_Global.pas</Transaction>
+    <Transaction>2022/02/04 22:33:14.650,=C:\Users\Francisco\Desktop\DESENVOLVIMENTO\DELPHI\UDP\Unit1.pas</Transaction>
+    <Transaction>2022/02/04 22:33:57.486,C:\Users\Francisco\Desktop\DESENVOLVIMENTO\DELPHI\UDP\ux_dao_lite.pas=C:\Users\Francisco\Desktop\DESENVOLVIMENTO\DELPHI\UDP\Unit1.pas</Transaction>
+    <Transaction>2022/02/04 22:38:41.252,=C:\Users\Francisco\Desktop\DESENVOLVIMENTO\DELPHI\UDP\Unit1.pas</Transaction>
+    <Transaction>2022/02/04 22:39:19.049,C:\Users\Francisco\Desktop\DESENVOLVIMENTO\DELPHI\UDP\DM.pas=C:\Users\Francisco\Desktop\DESENVOLVIMENTO\DELPHI\UDP\Unit1.pas</Transaction>
+    <Transaction>2022/02/04 22:39:19.049,C:\Users\Francisco\Desktop\DESENVOLVIMENTO\DELPHI\UDP\DM.dfm=C:\Users\Francisco\Desktop\DESENVOLVIMENTO\DELPHI\UDP\Unit1.dfm</Transaction>
+    <Transaction>2022/02/04 23:35:05.704,=C:\Users\Francisco\Desktop\DESENVOLVIMENTO\DELPHI\UDP\Unit1.pas</Transaction>
+    <Transaction>2022/02/04 23:35:17.829,C:\Users\Francisco\Desktop\DESENVOLVIMENTO\DELPHI\UDP\ux_log.pas=C:\Users\Francisco\Desktop\DESENVOLVIMENTO\DELPHI\UDP\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
